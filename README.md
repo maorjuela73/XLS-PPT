@@ -4,5 +4,11 @@ Bienvenidos al repositorio de archivos del curso. En esta página podrá encontr
 
 ## Links de interés
 
+### Editor de texto Sublime Text
+
+https://www.sublimetext.com/
+
 ### Prueba de entrada
+
 https://forms.gle/FFF4RNBJu5EimMV38
+
