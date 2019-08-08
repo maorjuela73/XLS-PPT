@@ -1,0 +1,40 @@
+Item	Account	$ Amount	Date Rcvd.	Deposit	Days to pay	Comment
+1	Office supply	$123.45 	1/2/2004	$10.00 	0	Project X
+2	Office supply	$54.40 	1/5/2004	$0.00 	0	Project Y
+3	Printing	"$2,543.21 "	1/5/2004	$350.00 	45	Feb. brochure
+4	Cleaning	$78.83 	1/8/2004	$0.00 	15	Monthly Service
+5	Coffee	$56.92 	1/9/2004	$0.00 	15	Monthly Service
+6	Office supply	$914.22 	1/12/2004	$100.00 	30	Project X
+7	Printing	$755.00 	1/13/2004	$50.00 	30	Hand bills
+8	Office supply	$478.88 	1/16/2004	$50.00 	30	Computer
+9	Office rent	"$1,632.00 "	1/19/2004	$0.00 	15	Monthly
+10	Fire insurance	"$1,254.73 "	1/22/2004	$0.00 	60	Quarterly
+11	Cleaning	$135.64 	1/22/2004	$0.00 	15	Water damage service
+12	Orphan’s	$300.00 	1/27/2004	$0.00 	0	Charity Fund
+13	Office supply	$343.78 	1/30/2004	$100.00 	15	Laser printer
+14	Printing	"$2,211.82 "	2/4/2004	$350.00 	45	Mar. brochure
+15	Coffee	$56.92 	2/5/2004	$0.00 	15	Monthly Service
+16	Cleaning	$78.83 	2/10/2004	$0.00 	15	Monthly Service
+17	Printing	$254.17 	2/12/2004	$50.00 	15	Hand bills
+18	Office supply	$412.19 	2/12/2004	$50.00 	30	Project Y
+19	Office supply	"$1,467.44 "	2/13/2004	$150.00 	30	Project W
+20	Office supply	$221.52 	2/16/2004	$50.00 	15	Project X
+21	Office rent	"$1,632.00 "	2/18/2004	$0.00 	15	Monthly
+22	Police fund	$250.00 	2/19/2004	$0.00 	15	Charity
+23	Printing	$87.34 	2/23/2004	$25.00 	0	Posters
+24	Printing	$94.12 	2/23/2004	$25.00 	0	Posters
+25	Entertaining	$298.32 	2/26/2004	$0.00 	0	Project
+26	Orphan’s	$300.00 	2/27/2004	$0.00 	0	Charity Fund
+27	Office supply	"$1,669.76 "	3/1/2004	$150.00 	45	Project Z
+28	Office supply	"$1,111.02 "	3/2/2004	$150.00 	30	Project W
+29	Office supply	$76.21 	3/4/2004	$25.00 	0	Project W
+30	Coffee	$56.92 	3/5/2004	$0.00 	15	Monthly Service
+31	Office supply	$914.22 	3/8/2004	$100.00 	30	Project X
+32	Cleaning	$78.83 	3/9/2004	$0.00 	15	Monthly Service
+33	Printing	$455.10 	3/12/2002	$100.00 	15	Hand bills
+34	Office supply	"$1,572.31 "	3/15/2002	$150.00 	45	Project Y
+35	Office rent	"$1,632.00 "	3/17/2002	$0.00 	15	Monthly
+36	Police fund	$250.00 	3/23/2002	$0.00 	15	Charity
+37	Office supply	$642.11 	3/26/2002	$100.00 	30	Project W
+38	Office supply	$712.16 	3/29/2002	$100.00 	30	Project Z
+39	Orphan’s	$300.00 	3/29/2002	$0.00 	0	Charity Fund
